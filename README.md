@@ -24,6 +24,6 @@ I'm a Data Scientist passionate about solving real-world problems using data ana
 
 ## 📫 Let's Connect!
 - 📧 Email: derrsanalytics@gmail.com  
-- [LinkedIn](www.linkedin.com/in/orji-stanley-chidera-4a5a33246)  
+- [LinkedIn](https://www.linkedin.com/in/orji-stanley-4a5a33246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [GitHub](https://github.com/DerrsStats)
 
